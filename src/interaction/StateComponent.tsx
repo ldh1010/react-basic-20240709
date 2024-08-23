@@ -99,8 +99,6 @@ export default function StateComponent() {
         const newCounts = [...counts, newCount];
         setCounts(newCounts);
 
-
-
     };
 
     return (
